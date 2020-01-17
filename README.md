@@ -1,4 +1,4 @@
-# README 
+# Portfolio Management with Deep Reinforcement Learning
 
 Application of deep reinforcement learning algorithms to manage a portfolio within the S&P 500. 
 
@@ -16,5 +16,7 @@ The following packages are required:
 - numpy
 - pandas
 - pytorch
+
+
 
 
