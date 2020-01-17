@@ -10,8 +10,7 @@ def process_df(path, ticker):
     # Read data to DataFrame
     df = pd.read_csv(path)
     df.rename(columns = lambda x: x.strip(), inplace = True)
-    
-    
+
     # Initialize result
     result = pd.DataFrame()
     
